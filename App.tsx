@@ -1,11 +1,13 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import Cat from './Cat';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
+      <Cat nome="Ernani" idade={24}/>
+      <Cat nome="Augusto" idade={19}/>
+      <Cat nome="Davi" idade={24}/>
     </View>
   );
 }
