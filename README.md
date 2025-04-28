@@ -1,4 +1,4 @@
-# Atividade 1
+# Primeiro Projeto
 
 Crie um projeto Expo no seu computador com o template `blank` ou `blank-typescript` e faça:
 
@@ -18,7 +18,7 @@ Crie um projeto Expo no seu computador com o template `blank` ou `blank-typescri
 
 <br>
 
-# Atividade 2
+# Segundo Projeto
 
 Crie um aplicativo que possua um componente que exiba um número aleatório dentro de um intervalo (inclusive). Esse intervalo deve ser informado como propriedades  `props` ao componente. Mostre o número gerado na tela `(View)` do componente principal.
 
