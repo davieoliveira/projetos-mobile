@@ -15,3 +15,11 @@ Crie um projeto Expo no seu computador com o template `blank` ou `blank-typescri
 
 4. **Mude a cor de fundo da barra de status**  
    Utilize a propriedade `backgroundColor` da [`StatusBar`](https://docs.expo.dev/versions/latest/sdk/status-bar/) do Expo.
+
+<br>
+
+# Atividade 2
+
+Crie um aplicativo que possua um componente que exiba um número aleatório dentro de um intervalo (inclusive). Esse intervalo deve ser informado como propriedades  `props` ao componente. Mostre o número gerado na tela `(View)` do componente principal.
+
+Exemplo: `<Aleatorio min={1} max={10} />`
